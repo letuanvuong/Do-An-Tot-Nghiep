@@ -774,7 +774,7 @@ module.exports = {"name":"project-backend","version":"1.0.0","description":"","m
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! E:\TT\ThucTap\NTU-Project\project-backend\app.js */"./app.js");
+module.exports = __webpack_require__(/*! E:\DoAnTN\project\project-backend\app.js */"./app.js");
 
 
 /***/ }),
